@@ -1,0 +1,7 @@
+adding notes here
+first save the file command+s
+then do git add .
+then check status
+then commit using git commit -m "describe the changes done"
+then git push origin main
+if it prompts, then pull
